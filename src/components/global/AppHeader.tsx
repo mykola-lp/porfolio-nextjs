@@ -10,7 +10,7 @@ export default function AppHeader() {
         className="text-gray-900 text-3xl/9 font-bold tracking-tight"
         href="/"
       >
-        { '<SS />' }
+        {'<SS />'}
       </Link>
 
       <div className="flex gap-6 items-center">

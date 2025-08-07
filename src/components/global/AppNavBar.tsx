@@ -30,7 +30,7 @@ export default function AppNavBar() {
                   hover:text-gray-900 transition-all duration-500"
               href={item.route}
             >
-              { item.title }
+              {item.title}
             </Link>
           </li>
         ))}
